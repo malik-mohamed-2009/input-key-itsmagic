@@ -40,6 +40,4 @@ public boolean doubleTaped(String key, float window) {
     }
     
     return false;
-}   
-    return false;
 }
